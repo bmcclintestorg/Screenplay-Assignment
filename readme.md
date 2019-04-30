@@ -1,4 +1,4 @@
 SCREENPLAY ASSIGNMENT
 
-*Write a screenplay
+* Write a screenplay
 * "Hero's Journey" plot
